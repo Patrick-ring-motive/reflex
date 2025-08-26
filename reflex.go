@@ -161,7 +161,7 @@ func isNil(v interface{}) bool {
 
 func Call(fn interface{}, argss ...[]interface{}) []any {
 	var args []interface{}
-	if len(args) > 0 {
+	if len(argss) > 0 {
 		args = argss[0]
 	}
 	inputs := make([]reflect.Value, len(args))
