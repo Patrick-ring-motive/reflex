@@ -1,0 +1,285 @@
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue20789.go:9:51: expected '(', found u
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue23385.go:10:5: expected boolean expression, found assignment (missing parentheses around composite literal?)
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue23385.go:15:5: expected boolean expression, found assignment (missing parentheses around composite literal?)
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue23434.go:11:38: expected type, found newline
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue23434.go:13:49: expected type, found newline
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue23434.go:18:49: expected type, found '!'
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue23434.go:26:50: expected type, found ')'
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue31092.go:11:35: expected ';', found ':='
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue31092.go:12:34: expected type, found ':='
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue31092.go:13:33: expected type, found ':='
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue31092.go:15:39: expected ';', found ':='
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue31092.go:16:37: expected ';', found ':='
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue43527.go:9:52: missing type constraint
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue43527.go:10:11: missing type parameter name
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue43527.go:11:55: missing type constraint
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue43527.go:12:54: missing type constraint
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue43527.go:13:56: missing type parameter name
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue43527.go:14:56: missing type parameter name
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue43527.go:15:56: missing type parameter name
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue43527.go:16:56: missing type parameter name
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue43527.go:17:74: missing type parameter name
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue43527.go:22:49: missing type constraint
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue43527.go:23:8: missing type parameter name
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue43674.go:7:50: expected type, found ')'
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue43674.go:8:50: expected type, found ','
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue43674.go:10:55: expected type, found ')'
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue43674.go:11:55: expected type, found ','
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue43674.go:13:52: expected type, found ')'
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue46558.go:11:3: expected operand, found 'case'
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue46558.go:14:38: missing ',' in composite literal
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue47704.go:8:8: expected operand, found ']'
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue47704.go:10:40: expected ']', found a
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue47704.go:15:46: expected ']', found newline
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue47704.go:16:3: expected ';', found ']'
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue47704.go:17:3: expected '}', found 'EOF'
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue48382.go:7:108: empty type parameter list
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue48382.go:8:108: missing type constraint
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue48382.go:9:68: function type must have no type parameters
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue48382.go:11:70: function type must have no type parameters
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue48382.go:12:69: function type must have no type parameters
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue48382.go:15:69: interface method must have no type parameters
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue49205.go:10:98: expected ';', found int
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue49205.go:15:1: expected '}', found 'const'
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue49205.go:19:105: missing ',' in composite literal
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue49205.go:22:108: expected ';', found ','
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue49205.go:25:93: missing ',' in parameter list
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue49205.go:26:89: missing ',' in argument list
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue49482.go:29:47: unexpected comma; expecting ]
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue49482.go:30:44: unexpected comma; expecting ]
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue52391.go:15:28: expected type, found '~'
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue52391.go:16:33: expected ')', found '|'
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue52391.go:17:3: expected '}', found 'EOF'
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue56022.go:7:53: expected 'IDENT', found '{'
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue56022.go:8:51: missing ',' in parameter list
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue56022.go:9:55: missing ',' in parameter list
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue56022.go:10:54: missing ',' before newline in parameter list
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue60599.go:8:5: expected boolean expression, found assignment (missing parentheses around composite literal?)
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue60599.go:9:5: expected boolean expression, found assignment (missing parentheses around composite literal?)
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue60599.go:10:5: expected boolean expression, found assignment (missing parentheses around composite literal?)
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue63835.go:7:72: expected 'IDENT', found '['
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue63835.go:8:9: expected ')', found 'return'
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue63835.go:9:1: expected ')', found '}'
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue65790.go:12:6: expected ';', found status
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue65790.go:14:3: expected '}', found 'EOF'
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/sample.go:25:44: expected ';', found ','
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/sample.go:29:72: expected type, found 0
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/smoketest.go:70:42: expected operand, found ']'
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/smoketest.go:73:3: missing ',' in type argument list
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/tparams.go:7:49: missing type constraint
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/tparams.go:8:56: missing type constraint
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/tparams.go:16:77: missing type constraint
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/tparams.go:20:47: empty type parameter list
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/tparams.go:21:49: missing type constraint
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/tparams.go:22:56: missing type constraint
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/tparams.go:24:37: expected ')', found 0
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/tparams.go:53:69: missing type parameter name or invalid array length
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/tparams.go:54:53: missing type parameter name
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/tparams.go:55:45: missing type parameter name
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/tparams.go:56:45: missing type parameter name
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/typeset.go:52:53: missing type parameter name or invalid array length
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/typeset.go:82:54: missing type constraint
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/typeset.go:83:55: missing type constraint
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/typeset.go:84:56: missing type parameter name
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/typeset.go:85:57: missing type parameter name
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/typeset.go:87:58: missing type parameter name
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/typeset.go:88:59: missing type parameter name
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/typeset.go:89:58: missing type parameter name
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/syntax/testdata/typeset.go:90:59: missing type parameter name
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/compile/internal/types2/testdata/local/issue47996.go:8:32: missing type constraint
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/cmd/go/internal/modindex/testdata/ignore_non_source/b.go:1:1: expected 'package', found 'EOF'
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/go/parser/testdata/issue42951/not_a_file.go/invalid.go:1:1: expected 'package', found This
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/internal/types/testdata/check/expr3.go:22:8: middle index required in 3-index slice
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/internal/types/testdata/check/expr3.go:23:9: middle index required in 3-index slice
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/internal/types/testdata/check/expr3.go:24:9: middle index required in 3-index slice
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/internal/types/testdata/check/expr3.go:90:8: middle index required in 3-index slice
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/internal/types/testdata/check/issues0.go:263:5: missing condition in if statement
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/internal/types/testdata/check/issues0.go:264:11: missing condition in if statement
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/internal/types/testdata/check/issues0.go:266:2: missing condition in if statement
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/internal/types/testdata/check/stmt0.go:232:6: expression in go must be function call
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/internal/types/testdata/check/stmt0.go:234:5: expression in go must not be parenthesized
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/internal/types/testdata/check/stmt0.go:242:9: expression in defer must be function call
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/internal/types/testdata/check/stmt0.go:244:8: expression in defer must not be parenthesized
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/internal/types/testdata/check/typeinst0.go:35:46: expected type argument list
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/internal/types/testdata/check/typeinst0.go:36:48: expected type argument list
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/internal/types/testdata/check/typeinst0.go:39:11: expected type argument list
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/internal/types/testdata/check/typeparams.go:332:12: method must have no type parameters
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/internal/types/testdata/check/typeparams.go:333:12: method must have no type parameters
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/internal/types/testdata/check/vardecl.go:17:6: expected type, found ';'
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/internal/types/testdata/check/vardecl.go:18:9: expected type, found ';'
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/internal/types/testdata/check/vardecl.go:19:12: expected type, found ';'
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/internal/types/testdata/examples/functions.go:211:8: empty type parameter list
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/internal/types/testdata/examples/functions.go:214:32: expected operand, found ']'
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/internal/types/testdata/examples/types.go:109:51: expected ';', found '['
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/internal/types/testdata/examples/types.go:149:2: cannot parenthesize embedded type
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/internal/types/testdata/examples/types.go:150:2: cannot parenthesize embedded type
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/internal/types/testdata/examples/types.go:151:3: cannot parenthesize embedded type
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/internal/types/testdata/fixedbugs/issue39634.go:89:26: interface method must have no type parameters
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/internal/types/testdata/fixedbugs/issue39634.go:90:36: expected operand, found ']'
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/internal/types/testdata/fixedbugs/issue43190.go:10:8: missing import path
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/internal/types/testdata/fixedbugs/issue43190.go:13:1: missing import path
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/internal/types/testdata/fixedbugs/issue43190.go:14:9: missing import path
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/internal/types/testdata/fixedbugs/issue43190.go:15:8: import path must be a string
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/internal/types/testdata/fixedbugs/issue43190.go:17:1: imports must appear before other declarations
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/internal/types/testdata/fixedbugs/issue43190.go:21:10: missing import path
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/internal/types/testdata/fixedbugs/issue43190.go:25:1: missing import path
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/internal/types/testdata/fixedbugs/issue43190.go:30:1: imports must appear before other declarations
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/internal/types/testdata/fixedbugs/issue45635.go:13:10: expected type argument list
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/internal/types/testdata/fixedbugs/issue46403.go:10:12: expected operand, found ']'
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/internal/types/testdata/fixedbugs/issue48827.go:18:79: expected type, found 1
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/internal/types/testdata/fixedbugs/issue50372.go:14:19: expected at most 2 expressions
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/internal/types/testdata/fixedbugs/issue50372.go:15:22: expected at most 2 expressions
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/internal/types/testdata/fixedbugs/issue50372.go:25:19: expected at most 2 expressions
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/internal/types/testdata/fixedbugs/issue50372.go:26:22: expected at most 2 expressions
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/internal/types/testdata/fixedbugs/issue50427.go:10:20: interface method must have no type parameters
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/internal/types/testdata/fixedbugs/issue50427.go:13:20: interface method must have no type parameters
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/internal/types/testdata/fixedbugs/issue50427.go:18:11: method must have no type parameters
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/internal/types/testdata/fixedbugs/issue50427.go:21:20: interface method must have no type parameters
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/internal/types/testdata/fixedbugs/issue51658.go:11:8: expected type, found '{'
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/internal/types/testdata/fixedbugs/issue51658.go:13:1: expected declaration, found '}'
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/internal/types/testdata/fixedbugs/issue51658.go:21:16: expected type, found '{'
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/internal/types/testdata/fixedbugs/issue51658.go:23:1: expected declaration, found '}'
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.10.linux-amd64/src/internal/types/testdata/spec/range.go:183:12: expected at most 2 expressions
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue20789.go:9:51: expected '(', found u
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue23385.go:10:5: expected boolean expression, found assignment (missing parentheses around composite literal?)
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue23385.go:15:5: expected boolean expression, found assignment (missing parentheses around composite literal?)
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue23434.go:11:38: expected type, found newline
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue23434.go:13:49: expected type, found newline
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue23434.go:18:49: expected type, found '!'
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue23434.go:26:50: expected type, found ')'
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue31092.go:11:35: expected ';', found ':='
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue31092.go:12:34: expected type, found ':='
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue31092.go:13:33: expected type, found ':='
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue31092.go:15:39: expected ';', found ':='
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue31092.go:16:37: expected ';', found ':='
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue43527.go:9:52: missing type constraint
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue43527.go:10:11: missing type parameter name
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue43527.go:11:55: missing type constraint
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue43527.go:12:54: missing type constraint
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue43527.go:13:56: missing type parameter name
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue43527.go:14:56: missing type parameter name
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue43527.go:15:56: missing type parameter name
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue43527.go:16:56: missing type parameter name
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue43527.go:17:74: missing type parameter name
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue43527.go:22:49: missing type constraint
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue43527.go:23:8: missing type parameter name
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue43674.go:7:50: expected type, found ')'
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue43674.go:8:50: expected type, found ','
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue43674.go:10:55: expected type, found ')'
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue43674.go:11:55: expected type, found ','
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue43674.go:13:52: expected type, found ')'
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue46558.go:11:3: expected operand, found 'case'
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue46558.go:14:38: missing ',' in composite literal
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue47704.go:8:8: expected operand, found ']'
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue47704.go:10:40: expected ']', found a
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue47704.go:15:46: expected ']', found newline
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue47704.go:16:3: expected ';', found ']'
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue47704.go:17:3: expected '}', found 'EOF'
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue48382.go:7:108: empty type parameter list
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue48382.go:8:108: missing type constraint
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue48382.go:9:68: function type must have no type parameters
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue48382.go:11:70: function type must have no type parameters
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue48382.go:12:69: function type must have no type parameters
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue48382.go:15:69: interface method must have no type parameters
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue49205.go:10:98: expected ';', found int
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue49205.go:15:1: expected '}', found 'const'
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue49205.go:19:105: missing ',' in composite literal
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue49205.go:22:108: expected ';', found ','
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue49205.go:25:93: missing ',' in parameter list
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue49205.go:26:89: missing ',' in argument list
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue49482.go:29:47: unexpected comma; expecting ]
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue49482.go:30:44: unexpected comma; expecting ]
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue52391.go:15:28: expected type, found '~'
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue52391.go:16:33: expected ')', found '|'
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue52391.go:17:3: expected '}', found 'EOF'
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue56022.go:7:53: expected 'IDENT', found '{'
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue56022.go:8:51: missing ',' in parameter list
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue56022.go:9:55: missing ',' in parameter list
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue56022.go:10:54: missing ',' before newline in parameter list
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue60599.go:8:5: expected boolean expression, found assignment (missing parentheses around composite literal?)
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue60599.go:9:5: expected boolean expression, found assignment (missing parentheses around composite literal?)
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue60599.go:10:5: expected boolean expression, found assignment (missing parentheses around composite literal?)
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue63835.go:7:72: expected 'IDENT', found '['
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue63835.go:8:9: expected ')', found 'return'
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue63835.go:9:1: expected ')', found '}'
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue65790.go:12:6: expected ';', found status
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/issue65790.go:14:3: expected '}', found 'EOF'
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/sample.go:25:44: expected ';', found ','
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/sample.go:29:72: expected type, found 0
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/smoketest.go:70:42: expected operand, found ']'
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/smoketest.go:73:3: missing ',' in type argument list
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/tparams.go:7:49: missing type constraint
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/tparams.go:8:56: missing type constraint
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/tparams.go:16:77: missing type constraint
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/tparams.go:20:47: empty type parameter list
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/tparams.go:21:49: missing type constraint
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/tparams.go:22:56: missing type constraint
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/tparams.go:24:37: expected ')', found 0
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/tparams.go:53:69: missing type parameter name or invalid array length
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/tparams.go:54:53: missing type parameter name
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/tparams.go:55:45: missing type parameter name
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/tparams.go:56:45: missing type parameter name
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/typeset.go:52:53: missing type parameter name or invalid array length
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/typeset.go:82:54: missing type constraint
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/typeset.go:83:55: missing type constraint
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/typeset.go:84:56: missing type parameter name
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/typeset.go:85:57: missing type parameter name
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/typeset.go:87:58: missing type parameter name
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/typeset.go:88:59: missing type parameter name
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/typeset.go:89:58: missing type parameter name
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/syntax/testdata/typeset.go:90:59: missing type parameter name
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/compile/internal/types2/testdata/local/issue47996.go:8:32: missing type constraint
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/cmd/go/internal/modindex/testdata/ignore_non_source/b.go:1:1: expected 'package', found 'EOF'
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/go/parser/testdata/issue42951/not_a_file.go/invalid.go:1:1: expected 'package', found This
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/internal/types/testdata/check/expr3.go:22:8: middle index required in 3-index slice
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/internal/types/testdata/check/expr3.go:23:9: middle index required in 3-index slice
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/internal/types/testdata/check/expr3.go:24:9: middle index required in 3-index slice
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/internal/types/testdata/check/expr3.go:90:8: middle index required in 3-index slice
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/internal/types/testdata/check/issues0.go:263:5: missing condition in if statement
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/internal/types/testdata/check/issues0.go:264:11: missing condition in if statement
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/internal/types/testdata/check/issues0.go:266:2: missing condition in if statement
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/internal/types/testdata/check/stmt0.go:232:6: expression in go must be function call
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/internal/types/testdata/check/stmt0.go:234:5: expression in go must not be parenthesized
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/internal/types/testdata/check/stmt0.go:242:9: expression in defer must be function call
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/internal/types/testdata/check/stmt0.go:244:8: expression in defer must not be parenthesized
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/internal/types/testdata/check/typeinst0.go:35:46: expected type argument list
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/internal/types/testdata/check/typeinst0.go:36:48: expected type argument list
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/internal/types/testdata/check/typeinst0.go:39:11: expected type argument list
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/internal/types/testdata/check/typeparams.go:332:12: method must have no type parameters
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/internal/types/testdata/check/typeparams.go:333:12: method must have no type parameters
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/internal/types/testdata/check/vardecl.go:17:6: expected type, found ';'
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/internal/types/testdata/check/vardecl.go:18:9: expected type, found ';'
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/internal/types/testdata/check/vardecl.go:19:12: expected type, found ';'
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/internal/types/testdata/examples/functions.go:211:8: empty type parameter list
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/internal/types/testdata/examples/functions.go:214:32: expected operand, found ']'
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/internal/types/testdata/examples/types.go:109:51: expected ';', found '['
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/internal/types/testdata/examples/types.go:149:2: cannot parenthesize embedded type
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/internal/types/testdata/examples/types.go:150:2: cannot parenthesize embedded type
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/internal/types/testdata/examples/types.go:151:3: cannot parenthesize embedded type
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/internal/types/testdata/fixedbugs/issue39634.go:89:26: interface method must have no type parameters
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/internal/types/testdata/fixedbugs/issue39634.go:90:36: expected operand, found ']'
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/internal/types/testdata/fixedbugs/issue43190.go:10:8: missing import path
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/internal/types/testdata/fixedbugs/issue43190.go:13:1: missing import path
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/internal/types/testdata/fixedbugs/issue43190.go:14:9: missing import path
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/internal/types/testdata/fixedbugs/issue43190.go:15:8: import path must be a string
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/internal/types/testdata/fixedbugs/issue43190.go:17:1: imports must appear before other declarations
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/internal/types/testdata/fixedbugs/issue43190.go:21:10: missing import path
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/internal/types/testdata/fixedbugs/issue43190.go:25:1: missing import path
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/internal/types/testdata/fixedbugs/issue43190.go:30:1: imports must appear before other declarations
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/internal/types/testdata/fixedbugs/issue45635.go:13:10: expected type argument list
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/internal/types/testdata/fixedbugs/issue46403.go:10:12: expected operand, found ']'
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/internal/types/testdata/fixedbugs/issue48827.go:18:79: expected type, found 1
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/internal/types/testdata/fixedbugs/issue50372.go:14:19: expected at most 2 expressions
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/internal/types/testdata/fixedbugs/issue50372.go:15:22: expected at most 2 expressions
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/internal/types/testdata/fixedbugs/issue50372.go:25:19: expected at most 2 expressions
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/internal/types/testdata/fixedbugs/issue50372.go:26:22: expected at most 2 expressions
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/internal/types/testdata/fixedbugs/issue50427.go:10:20: interface method must have no type parameters
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/internal/types/testdata/fixedbugs/issue50427.go:13:20: interface method must have no type parameters
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/internal/types/testdata/fixedbugs/issue50427.go:18:11: method must have no type parameters
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/internal/types/testdata/fixedbugs/issue50427.go:21:20: interface method must have no type parameters
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/internal/types/testdata/fixedbugs/issue51658.go:11:8: expected type, found '{'
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/internal/types/testdata/fixedbugs/issue51658.go:13:1: expected declaration, found '}'
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/internal/types/testdata/fixedbugs/issue51658.go:21:16: expected type, found '{'
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/internal/types/testdata/fixedbugs/issue51658.go:23:1: expected declaration, found '}'
+/home/runner/workspace/gopath/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.11.linux-amd64/src/internal/types/testdata/spec/range.go:183:12: expected at most 2 expressions
+stat reflex: no such file or directory

@@ -159,6 +159,27 @@ func isNil(v interface{}) bool {
 	}
 }
 
+func Call(fn interface{}, argss ...[]interface{}) []any {
+	var args []interface{}
+	if len(args) > 0 {
+		args = argss[0]
+	}
+	inputs := make([]reflect.Value, len(args))
+	for i := range args {
+		inputs[i] = ValueOf(args[i])
+	}
+	outputs := ValueOf(fn).Call(inputs)
+	returns := make([]any, len(outputs))
+	for i := range outputs {
+		returns[i] = AnyOf(outputs[i])
+	}
+	return returns
+}
+
+func CallMethod(obj interface{}, name string, argss ...[]interface{}) []any {
+	return Call(MethodByName(obj, name), argss...)
+}
+
 type testStruct struct {
 	Name  string
 	Count int
