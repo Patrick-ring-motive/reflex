@@ -180,6 +180,10 @@ func CallMethod(obj interface{}, name string, argss ...[]interface{}) []any {
 	return Call(MethodByName(obj, name), argss...)
 }
 
+func Close(channel interface{}) {
+	ValueOf(channel).Close()
+}
+
 type testStruct struct {
 	Name  string
 	Count int
