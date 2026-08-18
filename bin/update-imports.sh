@@ -1,11 +1,9 @@
-#!/bin/bash
-SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
-echo "go updating imports..."
-go get -u -t $SCRIPT_DIR/../...
+#!/usr/bin/env bash
+set -euo pipefail
 
-cd $SCRIPT_DIR/..
+script_dir="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" >/dev/null 2>&1 && pwd)"
+repo_dir="$(cd -- "$script_dir/.." >/dev/null 2>&1 && pwd)"
+cd "$repo_dir"
 
-echo "go tidying imports..."
 go mod tidy
-
-cd - > /dev/null
+go mod verify

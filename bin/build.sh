@@ -1,29 +1,26 @@
-#!/bin/bash
-SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
+#!/usr/bin/env bash
+set -euo pipefail
 
-echo "go formatting..."
-gofmt -s -w $SCRIPT_DIR/.. 2>grep reflex
+script_dir="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" >/dev/null 2>&1 && pwd)"
+repo_dir="$(cd -- "$script_dir/.." >/dev/null 2>&1 && pwd)"
+cd "$repo_dir"
 
-LAST_ERR=$?
-if [ $LAST_ERR -ne 0 ]; then
-  echo "go format error: $LAST_ERR"
-  exit 1
+unformatted="$(find . -name '*.go' -not -path './vendor/*' -exec gofmt -l {} +)"
+if [[ -n "$unformatted" ]]; then
+	printf 'Run gofmt on:\n%s\n' "$unformatted" >&2
+	exit 1
+fi
+go vet ./...
+
+coverage_file="$(mktemp "${TMPDIR:-/tmp}/reflex-coverage.XXXXXX")"
+trap 'rm -f "$coverage_file"' EXIT
+
+go test -race -covermode=atomic -coverprofile="$coverage_file" ./...
+coverage="$(go tool cover -func="$coverage_file" | awk '/^total:/ { print $3 }')"
+printf 'Statement coverage: %s\n' "$coverage"
+if [[ "$coverage" != "100.0%" ]]; then
+	printf 'Statement coverage must be 100.0%%.\n' >&2
+	exit 1
 fi
 
-$SCRIPT_DIR/update-imports.sh
-
-LAST_ERR=$?
-if [ $LAST_ERR -ne 0 ]; then
-  echo "update import error: $LAST_ERR"
-  exit 1
-fi
-
-$SCRIPT_DIR/compile.sh
-
-LAST_ERR=$?
-if [ $LAST_ERR -ne 0 ]; then
-  echo "compile error: $LAST_ERR"
-  exit 1
-fi
-
-echo "pre-build checks passed successfully."
+printf 'Build checks passed.\n'

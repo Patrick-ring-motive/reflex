@@ -1,12 +1,5 @@
-#!/bin/bash
-SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
+#!/usr/bin/env bash
+set -euo pipefail
 
-echo "go building..."
-$SCRIPT_DIR/build.sh
-
-cd $SCRIPT_DIR/..
-
-echo "go testing"
-go test .
-
-cd - > /dev/null
+script_dir="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" >/dev/null 2>&1 && pwd)"
+exec "$script_dir/build.sh"
